@@ -11,11 +11,11 @@
 
 * 进入对应分支：[点击进入v4.7.8分支](https://github.com/gdtmobsdk/GDTMobSDK/tree/v4.7.8)
 
-#### v4.7.3
+#### v4.7.4
 
-* 直接下载：[点击下载v4.7.3.zip](https://github.com/gdtmobsdk/GDTMobSDK/archive/v4.7.3.zip)
+* 直接下载：[点击下载v4.7.4.zip](https://github.com/gdtmobsdk/GDTMobSDK/archive/v4.7.3.zip)
 
-* 进入对应分支：[点击进入v4.7.3分支](https://github.com/gdtmobsdk/GDTMobSDK/tree/v4.7.3)
+* 进入对应分支：[点击进入v4.7.4分支](https://github.com/gdtmobsdk/GDTMobSDK/tree/v4.7.3)
 
 
 --
