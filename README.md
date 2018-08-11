@@ -4,39 +4,18 @@
 为流量主提供优质的商业化解决方案
 
 ## 下载地址
-#### v4.7.4
 
-* 直接下载：[点击下载v4.7.4.zip](https://github.com/gdtmobsdk/GDTMobSDK/archive/v4.7.4.zip)
+#### v4.7.8
 
-* 进入对应分支：[点击进入v4.7.4分支](https://github.com/gdtmobsdk/GDTMobSDK/tree/v4.7.4)
+* 直接下载：[点击下载v4.7.8.zip](https://github.com/gdtmobsdk/GDTMobSDK/archive/v4.7.8.zip)
+
+* 进入对应分支：[点击进入v4.7.8分支](https://github.com/gdtmobsdk/GDTMobSDK/tree/v4.7.8)
 
 #### v4.7.3
 
 * 直接下载：[点击下载v4.7.3.zip](https://github.com/gdtmobsdk/GDTMobSDK/archive/v4.7.3.zip)
 
 * 进入对应分支：[点击进入v4.7.3分支](https://github.com/gdtmobsdk/GDTMobSDK/tree/v4.7.3)
-
-#### v4.7.1
-
-* 直接下载：[点击下载v4.7.1.zip](https://github.com/gdtmobsdk/GDTMobSDK/archive/v4.7.1.zip)
-
-* 进入对应分支：[点击进入v4.7.1分支](https://github.com/gdtmobsdk/GDTMobSDK/tree/v4.7.1)
-
-#### v4.6.4
-
-
-* 直接下载：[点击下载v4.6.4.zip](https://github.com/gdtmobsdk/GDTMobSDK/archive/v4.6.4.zip)
-
-* 进入对应分支：[点击进入v4.6.4分支](https://github.com/gdtmobsdk/GDTMobSDK/tree/v4.6.4)
-
-## 支持版本号
-
-| 版本支持  | 最低支持  | bitcode支持  |   对应分支   |
-|:-------:|:--------:|:------------:|:----------:|
-|  4.7.4  |   iOS 8  |     ✔️      |    v4.7.4   |
-|  4.7.3  |   iOS 8  |     ✔️      |    v4.7.3   |
-|  4.7.1  |   iOS 8  |      ✘      |    v4.7.1   |
-|  4.6.4  |   iOS 8  |     ✔️      |    v4.6.4   |
 
 
 --
